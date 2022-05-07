@@ -1,0 +1,22 @@
+#smallText{
+            font-size: 30;
+}
+
+#mediumText{
+            font-size: 60;
+}
+
+#largeText{
+            font-size: 120;
+}
+
+#italicText{
+    font-style: italic;
+}
+#coloredText{
+    color: red;
+}
+
+#p1{
+    background-color: aqua;
+}
